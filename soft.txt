@@ -1,0 +1,20 @@
+juan 
+castaño
+desarrollador de software
+estatura 1.71
+casado
+
+ramas git
+
+   master v1 v2 v3 actual
+ esperimrntos   v2 v
+
+
+ git reset numero de la version --hard
+ para volver en el tiempo y borrar todo lo que icimos
+  git reset numero de la version --soft
+ para volver al estado anterior              
+
+ git log --stat para ver los cambios especificos apartir del commit 
+
+ git checkout numero de la version para ver como era el archivo antes nombre del archivo que vamos a ver como hera antes
