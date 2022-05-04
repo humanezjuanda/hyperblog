@@ -64,4 +64,7 @@ git Branch nombre de la rama este comando es para crear una nueva ras o una rama
 
 git checkout nombre de la rama para moverno a ella 
 
+merg cunando hacemos un merg no se crea ninguna rama lo que real mente ocurre
+ es que la rama cabecera desaparece y se une a la ruta final 
+
 
