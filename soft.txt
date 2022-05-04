@@ -57,3 +57,7 @@ ramas git
 git commit -am = para agregar los archivos solo funciona con archivos que ya le haygamos echo commit anterior mente
 
 
+git commit -a para disparar la aleryta para esc ribir el mensaje 
+
+
+
