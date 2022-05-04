@@ -59,5 +59,9 @@ git commit -am = para agregar los archivos solo funciona con archivos que ya le 
 
 git commit -a para disparar la aleryta para esc ribir el mensaje 
 
+git Branch nombre de la rama este comando es para crear una nueva ras o una rama de nuestro proyecto
+ para no afectar la master que es la base 
+
+git checkout nombre de la rama para moverno a ella 
 
 
